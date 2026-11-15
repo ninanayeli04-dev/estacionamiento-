@@ -1,4 +1,4 @@
-# Sistema de Estacionamiento - ParkAdmin
+# Sistema de Estacionamiento - El rapido
 
 Sistema web desarrollado con Node.js, React y PostgreSQL.
 
